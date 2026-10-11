@@ -13,8 +13,6 @@
 
 I'm Alex. I study Information Systems at Telkom University in Bandung, and I'm originally from Bali. I like trying out new technology, and I like traveling.
 
-*Halo, saya Alex. Saya kuliah Sistem Informasi di Telkom University, Bandung, dan berasal dari Bali. Saya suka mencoba teknologi baru dan suka traveling.*
-
 ## My portfolio
 
 <a href="https://alexdev.id"><img src="assets/portfolio.jpg" alt="alexdev.id, my portfolio" width="100%"></a>
