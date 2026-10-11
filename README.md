@@ -50,10 +50,10 @@ My own portfolio, and the project I'm proudest of: **a portfolio you walk throug
 
 ## 🌱 Currently exploring
 
-- ⚡ The newest web tech: **Next.js 16** and **React 19**
-- 🧊 3D on the web with **Three.js** and **React Three Fiber**
-- 🎞️ Scroll-driven motion with **GSAP** and **Lenis**
-- 🗣️ Explaining what I learn clearly, so beginners can follow
+Starting from the fundamentals, one small page at a time:
+
+- 🧱 **HTML**: the structure of a page, from scratch
+- 🎨 **CSS**: layout, spacing and responsive design, from scratch
 
 ## 🧰 What I work with
 
