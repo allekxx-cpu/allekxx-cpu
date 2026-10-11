@@ -55,6 +55,16 @@ Starting from the fundamentals, one small page at a time:
 - 🧱 **HTML**: the structure of a page, from scratch
 - 🎨 **CSS**: layout, spacing and responsive design, from scratch
 
+## 🧭 How I build
+
+I build with AI-assisted tools, and now I'm learning the fundamentals so I truly understand what I ship.
+
+## 🎯 Goals
+
+- Learn HTML and CSS properly and build a few pages entirely by hand
+- Join a tech community and learn together with others
+- Build my first project end to end, written by me
+
 ## 🧰 What I work with
 
 <p>
