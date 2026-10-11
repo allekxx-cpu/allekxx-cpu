@@ -1,8 +1,5 @@
-<h1 align="center">Hi, I'm Alex 👋</h1>
-
 <p align="center">
-  <b>Information Systems student at Telkom University</b> · from Bali 🌴 · based in Bandung<br>
-  I like turning ideas into things people can open, click and use.
+  <img src="assets/banner.png" alt="Hello, I'm Alex. Information Systems student from Bali, learning, building, shipping" width="100%">
 </p>
 
 <p align="center">
@@ -12,30 +9,38 @@
   <a href="mailto:iputurestucahayaputra@gmail.com"><img src="https://img.shields.io/badge/Email-say_hi-6be5c4?style=for-the-badge&logo=gmail&logoColor=2b1f33" alt="Email"></a>
 </p>
 
----
+## 👋 About me
 
-## ✨ Selected work
+I'm Alex, an Information Systems student at **Telkom University**. I'm from Bali and now study in Bandung. I love tinkering with the newest tech and turning what I learn into things people can open, click and use. Outside the screen, I like traveling and exploring new places.
+
+🇮🇩 *Halo, saya Alex, mahasiswa Sistem Informasi Telkom University asal Bali. Saya suka mengulik teknologi terbaru dan menjadikannya sesuatu yang bisa dibuka dan dipakai orang. Di luar layar, saya suka traveling.*
+
+## 🔭 Spotlight: [alexdev.id](https://alexdev.id)
+
+<a href="https://alexdev.id"><img src="assets/portfolio.jpg" alt="alexdev.id, my interactive 3D portfolio" width="100%"></a>
+
+My own portfolio, and the project I'm proudest of: **a portfolio you walk through** instead of scroll past.
+
+- 🏛️ **An interactive 3D palace tour.** Every door opens onto a different part of my story: skills, projects, internships and a timeline.
+- 💬 **An AI assistant** that answers questions about me, so visitors can ask instead of hunting.
+- 📱 **A light phone version** with a tappable door list, and a [Selected work](https://alexdev.id/projects) page that shows my websites in browser frames you can scroll through and open live.
+- 🧱 Built with Next.js, React Three Fiber, Three.js, GSAP and TypeScript.
+
+## ✨ More work
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://alexdev.id"><img src="assets/portfolio.jpg" alt="alexdev.id, my portfolio"></a><br>
-      <b>alexdev.id</b> · my portfolio<br>
-      <sub>An interactive 3D palace you walk through: every door opens onto a part of my story.</sub>
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://helmiazmi.vercel.app"><img src="assets/helmi.jpg" alt="Helmi Azmi"></a><br>
       <b>Helmi Azmi</b><br>
       <sub>Portfolio for an FPV pilot: a scroll-driven film story, page transitions and a 3D drone.</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://eksporkopibali.vercel.app"><img src="assets/eksporkopibali.jpg" alt="EksporKopiBali"></a><br>
       <b>EksporKopiBali</b><br>
       <sub>A green coffee exporter's site: a 3D journey of one bean from a Kintamani farm to a cup.</sub>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://artisticthrive-architect.vercel.app"><img src="assets/artisticthrive.jpg" alt="Artisticthrive Architect"></a><br>
       <b>Artisticthrive Architect</b><br>
       <sub>An architecture studio's site: sketch-to-render hero, scroll animation and a project gallery.</sub>
@@ -43,7 +48,12 @@
   </tr>
 </table>
 
-More at **[alexdev.id/projects](https://alexdev.id/projects)**, each one open live.
+## 🌱 Currently exploring
+
+- ⚡ The newest web tech: **Next.js 16** and **React 19**
+- 🧊 3D on the web with **Three.js** and **React Three Fiber**
+- 🎞️ Scroll-driven motion with **GSAP** and **Lenis**
+- 🗣️ Explaining what I learn clearly, so beginners can follow
 
 ## 🧰 What I work with
 
@@ -68,9 +78,14 @@ More at **[alexdev.id/projects](https://alexdev.id/projects)**, each one open li
 - **Balinesia Tech**: software engineering intern (2025)
 - **Telkom Indonesia Denpasar**: administrative intern (2025)
 
-## 🌱 Right now
+## 🤝 Open to
 
-Learning more every week, and looking to join communities where I can build, share and grow with others.
+**Internships**, **freelance projects** and **student & tech communities** where I can build, share and grow with others. If you have something in mind, I'd love to hear it.
+
+<p>
+  <a href="mailto:iputurestucahayaputra@gmail.com"><img src="https://img.shields.io/badge/Email_me-iputurestucahayaputra@gmail.com-6be5c4?style=for-the-badge&logo=gmail&logoColor=2b1f33" alt="Email me"></a>
+  <a href="https://www.linkedin.com/in/restucahayaputra"><img src="https://img.shields.io/badge/Message_me_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 ---
 
