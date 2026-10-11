@@ -55,6 +55,8 @@ Starting from the fundamentals, one small page at a time:
 - 🧱 **HTML**: the structure of a page, from scratch
 - 🎨 **CSS**: layout, spacing and responsive design, from scratch
 
+📓 Follow along: **[html-css-learning](https://github.com/allekxx-cpu/html-css-learning)**, my 28-day plan with daily notes in my own words.
+
 ## 🧭 How I build
 
 I build with AI-assisted tools, and now I'm learning the fundamentals so I truly understand what I ship.
